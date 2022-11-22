@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+ }
+
+.biz--one, 
+.contact--info,
+.h1--one,
+.biz--one,
+.AboutMe,
+.h1--one,
+.biz--one{
+  text-align: center;
+  color: orange;
+  
+    
+}
+
+.h1--one,.biz--one{
+    text-align: center;
+    
+    background-color: black;
+    margin: 0;
+}
+
+.h1--one:hover, .biz--one:hover{
+    text-shadow: 2px 2px 5px red;
+    
+}
+
+.Profile--Pic{
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-color: orange;
+    
+}
+    
+
+.biz--one{
+}
+
+.contact--info:hover{
+    text-shadow: 2px 2px 5px red;
+}
+
+.AboutMe{
+    
+}
